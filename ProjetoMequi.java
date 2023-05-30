@@ -2,7 +2,7 @@ package projetoMequi;
 
 import java.util.Scanner;
 
-public class Tester {
+public class ProjetoMequi {
 
 	public static void main(String[] args) {
 
